@@ -1,0 +1,8 @@
+INFO: System started successfully
+WARNING: Low disk space on drive C
+ERROR: Database connection failed
+INFO: User logged in
+None
+ERROR: Timeout occurred while fetching data
+WARNING: High memory usage detected
+INFO: Scheduled backup completed
